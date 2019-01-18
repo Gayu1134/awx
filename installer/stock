@@ -1,0 +1,6 @@
+
+stgres_data_dir=/var/lib/pgdocker
+ awx_official=true
+ awx_alternate_dns_servers="4.2.2.1,4.2.2.2"
+ project_data_dir=/var/lib/awx/projects
+ 
